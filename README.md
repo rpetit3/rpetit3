@@ -1,8 +1,8 @@
 ### Yo! 👋
 
-Hello, I'm Robert! I currently work as a bioinformatician in the Division of Infectious Diseases at Emory University. My work involves developing [Bactopia](https://bactopia.github.io/), a bacterial genome analysis pipeline, and proving bioinformatic support for the [EMERGENT Group](https://read-lab-confederation.github.io/) and collaborators.
+Hello, I'm Robert! I currently work as a bioinformatician in the Division of Infectious Diseases at Emory University. My work involves developing [Bactopia](https://bactopia.github.io/), a bacterial genome analysis pipeline, and providing bioinformatic support for the [EMERGENT Group](https://read-lab-confederation.github.io/) and collaborators.
 
-I am also a big advocate of using [Conda](https://docs.conda.io/en/latest/), specifically [Bioconda](https://bioconda.github.io/). If you have a bioinformatic tool you think others would find useful, please take the time to submit a recipe to Bioconda. And, if you need help, please reach out to the [Bioconda Team](https://github.com/bioconda/bioconda-recipes/issues) or myself ([Twitter](https://twitter.com/rpetit3)). I think you'll find some people willing to help out!
+I am a big advocate of using [Conda](https://docs.conda.io/en/latest/), specifically [Bioconda](https://bioconda.github.io/). If you have a bioinformatic tool you think others would find useful, please take the time to submit a recipe to Bioconda. And, if you need help, please reach out to the [Bioconda Team](https://github.com/bioconda/bioconda-recipes/issues) or myself ([Twitter](https://twitter.com/rpetit3)). I think you'll find some people willing to help out!
 
 - 💻 Things I use daily: Nextflow, Conda, Unix, Python
 - 🌱 I’m currently learning [Github Actions](https://github.com/features/actions)
