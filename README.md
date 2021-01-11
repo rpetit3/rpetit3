@@ -1,6 +1,6 @@
 ### Yo! 👋
 
-Hello, I'm Robert! I currently work as a bioinformatician in the Division of Infectious Diseases at Emory University. My work involves developing [Bactopia](https://bactopia.github.io/), a bacterial genome analysis pipeline, and providing bioinformatic support for the [EMERGENT Group](https://read-lab-confederation.github.io/) and collaborators.
+Hello, I'm Robert! I currently work as a bioinformatician in the Division of Infectious Diseases at Emory University. My work involves developing [Bactopia](https://bactopia.github.io/), a bacterial genome analysis pipeline, and providing bioinformatic support for the [EMERGENT Group](https://read-lab-confederation.github.io/).
 
 - 💻 Things I use daily: Nextflow, Conda, Unix, Python
 - 🌱 I’m currently learning [Github Actions](https://github.com/features/actions)
