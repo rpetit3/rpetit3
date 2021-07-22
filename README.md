@@ -1,6 +1,6 @@
 ### Yo! 👋
 
-Hello, I'm Robert! I currently work as a bioinformatician in the Wyoming Public Health Laboratory. In my personal time I am continuing to develop [Bactopia](https://bactopia.github.io/), a bacterial genome analysis pipeline.
+Hello, I'm Robert Petit (*puh-teet, not pet-it*)! I currently work as a bioinformatician in the Wyoming Public Health Laboratory. In my personal time I am continuing to develop [Bactopia](https://bactopia.github.io/), a bacterial genome analysis pipeline.
 
 - 💻 Things I use daily: Nextflow, Conda, Unix, Python
 - 🌱 I’m currently learning [Github Actions](https://github.com/features/actions)
